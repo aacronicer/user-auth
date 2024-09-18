@@ -175,5 +175,5 @@ dist
 .DS_Store
 
 # Prisma Migration and db files
-prisma/migrations
-prisma/dev.db
+.prisma/migrations
+.prisma/dev.db
