@@ -34,9 +34,9 @@ Prerequisites
 
 1. Clone the Repository
 
-git clone https://github.com/aacronicer/user-auth.git
+    git clone https://github.com/aacronicer/user-auth.git
 
-cd user-auth
+    cd user-auth
 
 2. Install Dependencies
 
